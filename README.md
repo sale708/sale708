@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @sale708
+- 👀 I’m interested in Javascript
